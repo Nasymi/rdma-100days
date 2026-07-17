@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "days/Day001.md",
+                "file": "days/Day002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day001"
+              "title": "Day002"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "25d8a87d90a53726",
   "lastOpenFiles": [
+    "days/Day001.md",
+    "days/Day002.md",
     "README.md",
-    "template.md",
-    "days/Day001.md"
+    "days/Day003.md",
+    "template.md"
   ]
 }
